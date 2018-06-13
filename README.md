@@ -2,9 +2,7 @@
 
 Trabalho prático da disciplina - **ENG007 - Domótica Automação Predial**, na Universidade Federal de Minas Gerais.
 
-O trabalho consiste na realização de uma automação residêncial utilizando arduino.
-
-Para isto, foram feitas duas cenas para automação de 2 ambientes (Sala e Copa).
+O trabalho consiste na realização de uma automação residêncial utilizando arduino. Para isto, foram feitas duas cenas para automação de 2 ambientes (Sala e Copa).
 
 
 - **Cena 1 - Entretenimento**
